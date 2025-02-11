@@ -1,4 +1,4 @@
-<img src="https://d1.awsstatic.com/product-marketing/IronMan/AWS-service-icon_sagemaker.5ccec16f16a04ed56cb1d7f02dcdada8de261923.png" align="right" width="150"/> 
+<img src="https://d1.awsstatic.com/product-marketing/IronMan/AWS-service-icon_sagemaker.5ccec16f16a04ed56cb1d7f02dcdada8de261923.png" align="right" width="100"/> 
 
 # Customer Churn Detection with Amazon SageMaker
 
