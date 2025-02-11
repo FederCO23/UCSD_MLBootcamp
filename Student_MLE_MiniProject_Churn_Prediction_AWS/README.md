@@ -1,4 +1,4 @@
-<img src="https://d1.awsstatic.com/product-marketing/IronMan/AWS-service-icon_sagemaker.5ccec16f16a04ed56cb1d7f02dcdada8de261923.png" width="150" style="float: right;"> 
+<img src="https://d1.awsstatic.com/product-marketing/IronMan/AWS-service-icon_sagemaker.5ccec16f16a04ed56cb1d7f02dcdada8de261923.png" align="right" width="150"/> 
 
 # Customer Churn Detection with Amazon SageMaker
 
@@ -48,7 +48,7 @@ The AWS tutorial involves preprocessing data, defining a pipeline, training a mo
 
 📂 **Deploy the files following this hierarchy** in your **EFS** (Elastic File System) associated with your **JupyterLab** environment.
 
-<img src="./img/tree.png" align="center" width="512" alt="Project File Structure"/>
+<img src="./img/tree.png" align="left" width="512"/>
 
 ---
 
@@ -68,7 +68,7 @@ Finally, execute the **Jupyter Notebook** to run the pipeline.
 
 <img src="./img/pipeline.png" align="center" width="512" alt="SageMaker Pipeline Execution"/>
 
-### **📊 Report (SageMaker Clarify Analysis)**
+### **📊 [HTML Report](./report/report.html) (SageMaker Clarify Analysis)**
 
 The SageMaker Clarify report provides a detailed dataset analysis, including:
 
@@ -78,9 +78,9 @@ The SageMaker Clarify report provides a detailed dataset analysis, including:
 4. **Posttraining bias metrics**
 5. **Model explanations**
 
-<img src="./img/GlobalSHAP.png" align="center" width="512" alt="Global SHAP Analysis"/>
+<img src="./img/GlobalSHAP.png" align="center" width="600" />
 
-<img src="./img/LocalSHAP.png" align="center" width="1024" alt="Local SHAP Analysis"/>
+<img src="./img/LocalSHAP.png" align="center" width="900" />
 
 From the analysis, we conclude that the most influential factor in customer churn is the **number of emails sent**.
 
