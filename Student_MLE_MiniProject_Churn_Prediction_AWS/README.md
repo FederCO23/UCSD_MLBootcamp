@@ -48,7 +48,8 @@ The AWS tutorial involves preprocessing data, defining a pipeline, training a mo
 
 📂 **Deploy the files following this hierarchy** in your **EFS** (Elastic File System) associated with your **JupyterLab** environment.
 
-<img src="./img/tree.png" align="left" width="512"/>
+<img src="./img/tree.png" align="center" width="450" />
+
 
 ---
 
