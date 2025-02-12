@@ -69,7 +69,7 @@ Finally, execute the **Jupyter Notebook** to run the pipeline.
 
 <img src="./img/pipeline.png" align="center" width="512" alt="SageMaker Pipeline Execution"/>
 
-### **📊 [HTML Report](./report/report.html) (SageMaker Clarify Analysis)**
+### **📊 [PDF Report](./report/report.pdf) (SageMaker Clarify Analysis)**
 
 The SageMaker Clarify report provides a detailed dataset analysis, including:
 
